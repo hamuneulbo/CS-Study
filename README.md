@@ -1,5 +1,7 @@
 # Sogang-CS-Study
 
+면접에 대비하여 CS 지식을 정리합니다.
+
 ## Network
 
 ### [1주차](01주차)
