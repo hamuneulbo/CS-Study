@@ -1,0 +1,32 @@
+### SSL Handshake
+
+1. message digest가 어떤건가요?
+2. SSL CA의 역할은?
+3. 실제 구현 방법은?
+4. 대칭키인지 비대칭키인지?
+
+### DNS
+1. 순방향 조회(forward lookup) vs 역방향 조회(reverse lookup)
+2. DNS 재귀 쿼리와 반복 쿼리의 차이점은 무엇인가요?
+
+### Rest
+- url과 uri의 차이
+- get과 post의 차이
+- post과 put의 차이
+- put과 patch의 차이
+- rest의 4가지 원칙이 무엇인지?
+
+### CORS
+- 모든 도메인에 대한 요청은 어떻게 처리하나요?
+- http://localhost:80 과 [http://127.0.0.1](http://127.0.0.1/)
+- CORS 이슈를 해결한 경험을 말해주세요.
+
+
+### 쿠키 세션 JWT
+1. 세션쿠키란?
+	1. 유효기간이 설정되지 않은 쿠키
+
+### 공인 IP / 사설 IP
+1. 사설IP와 공인IP를 변환시켜주는 기술은?
+2. subnet이란?
+	1. 서브넷 마스크란?
