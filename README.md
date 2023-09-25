@@ -4,7 +4,7 @@
 
 ## Network
 
-### [1주차](01주차)
+### [1주차](1주차)
 
 - OSI 7 계층
 - TCP 3 way handshake & 4 way handshake
@@ -13,7 +13,7 @@
 - 대칭키 & 공개키
 - HTTP & HTTPS
 
-### [2주차](02주차)
+### [2주차](2주차)
 
 - TLS/SSL handshake
 - DNS
@@ -22,7 +22,7 @@
 - 쿠키, 세션 & JWT
 - 공인(public) IP / 사설(private) IP
 
-### [3주차](03주차)
+### [3주차](3주차)
 - OAuth
 - Socket & Socket.io
 - 로드 밸런싱(Load Balancing)
@@ -31,7 +31,7 @@
 
 ## Operating System
 
-### [4주차](04주차)
+### [4주차](4주차)
 
 - 운영체제란
 - 프로세스 vs 스레드
@@ -42,7 +42,7 @@
 - PCB와 Context Switching
 - IPC(Inter Process Communication)
 
-### [5주차](05주차)
+### [5주차](5주차)
 
 - CPU 스케줄링
 - 캐시(Cache)란
@@ -52,14 +52,14 @@
 - 페이징 & 세그먼테이션 (PDF)
 - 페이지 교체 알고리즘
 
-### [6주차](06주차)
+### [6주차](6주차)
 
 - 메모리(Memory)
 - 파일 시스템
 
 ## Database
 
-### [6주차](06주차)
+### [6주차](6주차)
 
 - 키(Key) 정리
 - SQL - 기본
@@ -69,7 +69,7 @@
 - 레디스(Redis)
 - ORM(Object-Relational Mapping)
 
-### [7주차](07주차)
+### [7주차](7주차)
 
 - 정규화(Nomalization)
 - 이상(Anomaly)
@@ -79,7 +79,7 @@
 
 ## Data Structure
 
-### [7주차](07주차)
+### [7주차](7주차)
 
 - Array
 - LinkedList
@@ -87,7 +87,7 @@
 - HashTable
 - 스택(Stack) & 큐(Queue)
 
-### [8주차](08주차)
+### [8주차](8주차)
 
 - 그래프(Graph) & 트리(Tree)
 - 힙(Heap)
@@ -98,7 +98,7 @@
 
 ## 그 외
 
-### [9주차](09주차)
+### [9주차](9주차)
 - 객체 지향 프로그래밍(OOP)
 - 디도스, 피싱, 스미싱
 - Hash vs Encryption
